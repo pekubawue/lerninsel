@@ -93,12 +93,6 @@
          "id":30,
          "name":"feld_ernte",
          "opacity":1,
-         "properties":[
-                {
-                 "name":"jitsiRoom",
-                 "type":"string",
-                 "value":"GIT_OWNER-ernte"
-                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
@@ -339,6 +333,12 @@
          "id":33,
          "name":"teacherplace_floor",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"GIT_OWNER-ernte"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":46,
